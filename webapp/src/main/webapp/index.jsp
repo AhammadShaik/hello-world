@@ -1,3 +1,1 @@
-Hello, Welcome to Valaxy Technologies !!
-
-Deployment is going to happen through ansible
+nHello, Welcome to jenkins world Technologies !!
