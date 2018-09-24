@@ -1,6 +1,6 @@
 Assalamuwalikum , Welcome to jenkins world 
 
-`\n` Subhanallah , Alhamdulillah
-Deploy
+<br> Subhanallah , Alhamdulillah
+<br> Deploy
 Commited
 After commited
