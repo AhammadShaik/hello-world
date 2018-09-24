@@ -1,5 +1,5 @@
-Assalamuwalikum , Welcome to jenkins world  !!
-this is commited to test job trigger
+Assalamuwalikum , Welcome to jenkins world 
+This commited to test job trigger
 
 
 `\n` Subhanallah , Alhamdulillah
